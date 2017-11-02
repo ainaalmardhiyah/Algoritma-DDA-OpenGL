@@ -1,0 +1,8 @@
+﻿  dda.cpp
+d:\data kuliah\semester 5\komputer grafik\opengl dengan bahasa pemrograman c++ dan ide visual studio 2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\data kuliah\semester 5\komputer grafik\opengl dengan bahasa pemrograman c++ dan ide visual studio 2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\data kuliah\semester 5\komputer grafik\opengl dengan bahasa pemrograman c++ dan ide visual studio 2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\data kuliah\semester 5\komputer grafik\opengl dengan bahasa pemrograman c++ dan ide visual studio 2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\data kuliah\semester 5\komputer grafik\opengl dengan bahasa pemrograman c++ dan ide visual studio 2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(88): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+d:\data kuliah\semester 5\komputer grafik\opengl dengan bahasa pemrograman c++ dan ide visual studio 2015\garis_lingkaran_opengl_c++_vs2015\ddaopengl\ddaopengl\dda.cpp(94): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  ddaOpenGL.vcxproj -> D:\Data Kuliah\Semester 5\Komputer Grafik\OpenGL dengan bahasa pemrograman C++ dan IDE Visual Studio 2015\Garis_Lingkaran_OpenGL_C++_VS2015\ddaOpenGL\Debug\ddaOpenGL.exe
